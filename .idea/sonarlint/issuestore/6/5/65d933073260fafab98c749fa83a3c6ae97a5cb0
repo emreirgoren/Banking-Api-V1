@@ -1,0 +1,9 @@
+
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ù’‹¼×1
+N
+java:S1068"1Remove this unused "accountNumber" private field.(Å„ÕØ8ú’‹¼×1
+M
+java:S1068"+Remove this unused "balance" private field.(Õ¢’£ÿÿÿÿÿ8ú’‹¼×1
+F
+java:S1068")Remove this unused "owner" private field.(¿˜‰á8’ÀŒ¼×1
